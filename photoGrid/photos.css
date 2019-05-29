@@ -1,0 +1,16 @@
+p {
+	font-family: Raleway;       /*字体*/
+	margin-left: 1.66%;         /*左边界*/
+	font-size: 23px;            /*字号*/
+	font-weight: 800;           /*粗细*/
+	text-transform: uppercase;  /*转换为大写*/
+	border-bottom: 2px solid #F1F1F1;  /*下划线*/
+	width: 40%;                 /*宽度*/
+	padding-bottom: 10px;       /*设置content到下border的space*/
+}
+
+img {
+	width: 30%;
+	float: left;                /*可以去除图片间自带的间隙*/
+	margin: 1.66%
+}
