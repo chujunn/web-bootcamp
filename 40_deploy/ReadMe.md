@@ -1,4 +1,4 @@
-#Basic Heroku Cli
+# Basic Heroku Cli
 
 ``` bash
 # Login
@@ -17,7 +17,7 @@ $ heroku logs
 $ heroku open
 ```
 
-#Notes
+# Notes
 1. Remember to add start script in package.json
 
 ```js
