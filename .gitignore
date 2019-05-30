@@ -18,3 +18,5 @@ edu/
 .DS_Store
 .gradle/
 .vscode/
+
+*/node_modules/
